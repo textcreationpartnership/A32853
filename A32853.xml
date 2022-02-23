@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mr. Chillingworth's judgment of the religion of Protestants, &amp;c.</title>
+            <title>Religion of Protestants a safe way to salvation. Selections</title>
+            <author>Chillingworth, William, 1602-1644.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32853</idno>
+            <idno type="STC">Wing C3887</idno>
+            <idno type="STC">ESTC R323</idno>
+            <idno type="EEBO-CITATION">12952466</idno>
+            <idno type="OCLC">ocm 12952466</idno>
+            <idno type="VID">95974</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32853)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95974)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 733:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mr. Chillingworth's judgment of the religion of Protestants, &amp;c.</title>
+                  <title>Religion of Protestants a safe way to salvation. Selections</title>
+                  <author>Chillingworth, William, 1602-1644.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Fr. Smith ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Extracts from Chillingworth's The religion of Protestants a safe way to salvation, first published in 1637.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Protestantism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:95974:1"/>
+            <pb n="1" facs="tcp:95974:1"/>
+            <head>
+               <hi>Mr.</hi> Chillingworth<hi>'s Judgment OF THE RELIGION OF PROTESTANTS,</hi> &amp;c.</head>
+            <div type="preface">
+               <head>The PREFACE.</head>
+               <p>SInce the Parliament is now upon a Bill of Compre<g ref="char:EOLhyphen"/>henſion, and another of Indulgence or Toleration, I cannot but think it ſeaſonable to publiſh theſe Paſſages, which I have collected out of Mr. <hi>Chil<g ref="char:EOLhyphen"/>lingworth</hi>'s Book, intituled, <hi>The Religion of Prote<g ref="char:EOLhyphen"/>ſtants a ſafe Way to Salvation.</hi> Not but that I ſuppoſe there are few Lords, or Members of the Houſe of Com<g ref="char:EOLhyphen"/>mons, that were ſo little concern'd in the Controverſie between Papiſts and Proteſtants, as not to have read ſo famous a Book of that Subject; which in order to print<g ref="char:EOLhyphen"/>ing, had the high Approbation of the then Vice-Chancellor, and both the King's and <hi>Margaret</hi> Profeſſors of Divini<g ref="char:EOLhyphen"/>ty in the <g ref="char:V">Ʋ</g>niverſity of <hi>Oxon;</hi> and ſince its publication,
+<pb n="2" facs="tcp:95974:2"/>has had the higheſt Commendation of moſt, if not all Learned Proteſtants, as the moſt learned and judicious Book of any that had been publiſh'd before upon thoſe great Controverted Points; yet even to ſuch it will not be un<g ref="char:EOLhyphen"/>pleaſing to be reminded of theſe few uſeful Things.</p>
+               <p>Here the Reader will find, in brief, what the Religion of Proteſtants is; what Errors are dangerous, what not: That differing Proteſtants agree in all Things neceſſary to Salvation; that it's <g ref="char:V">Ʋ</g>nchriſtian to uſe Force in Matters meerly Religious. What is the Fountain of all the Schiſms of the Church, and the Calamities that have in<g ref="char:EOLhyphen"/>feſted Chriſtendom about Opinions of Religion; and that <g ref="char:V">Ʋ</g>niverſal Liberty, well moderated, is the way to reduce Chriſtians to Truth and <g ref="char:V">Ʋ</g>nity.</p>
+               <p>This Book was firſt printed in the Year <hi>1637,</hi> and de<g ref="char:EOLhyphen"/>dicated to his Majeſty <hi>Charles</hi> the Firſt, and reprinted <hi>1663;</hi> and for more common <g ref="char:V">Ʋ</g>ſe made ſhorter, by leaving out perſonal Matters, printed again <hi>Anno 1685.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:95974:2"/>
+               <head>Of the Religion of Proteſtants.</head>
+               <p>
+                  <hi>CHap.</hi> 6. <hi>Nom.</hi> 56. Know then, Sir, that when I ſay the Religion of Proteſtants is in pru<g ref="char:EOLhyphen"/>dence to be preferred before yours: as on the one ſide I do not underſtand by your Religion the Doctrine of <hi>Bellarmine,</hi> or <hi>Baronius,</hi> or any other private Man amongſt you; nor the Doctrine of the <hi>Sorbon,</hi> or of the Jeſuits, or of the Dominicans, or of any other particular Company amongſt you, but that wherein you all agree, or profeſs to agree, <hi>The Doctrine of the Council of</hi> Trent: So accordingly on the other ſide, by <hi>The Religion of Proteſtants,</hi> I do not underſtand the Doctrine of <hi>Luther,</hi> or <hi>Calvin,</hi> or <hi>Melancton,</hi> nor the Confeſſion of <hi>Auguſta</hi> or <hi>Geneva,</hi> nor the Catechiſm of <hi>Heidelberg,</hi> nor the Articles of the Church of <hi>England,</hi> no, nor the Harmony of Proteſtant Confeſſions, but that wherein they all agree, and which they all ſubſcribe with a greater Harmony, as a perfect Rule of their Faith and Actions; that is, the <hi>Bible,</hi> the <hi>Bible,</hi> I ſay the <hi>Bible</hi> only is the Re<g ref="char:EOLhyphen"/>ligion of Proteſtants! Whatſoever elſe they believe beſides it, and the plain irrefragable, indubitable con<g ref="char:EOLhyphen"/>ſequences of it, well may they hold it as a matter of Opinion, but not as a matter of Faith and Religion; neither can they with coherence to their own grounds believe it themſelves, nor require the belief of it of others, without moſt high and moſt ſchiſmatical Pre<g ref="char:EOLhyphen"/>ſumption. I, for my part, after a long (and as I ve<g ref="char:EOLhyphen"/>rily
+<pb n="4" facs="tcp:95974:3"/>believe and hope) impartial ſearch of <hi>the true way to eternal Happineſs,</hi> do profeſs plainly, that I cannot find any reſt for the ſole of my foot, but upon this Rock only. I ſee plainly and with mine own eyes, that there are Popes againſt Popes, Councils againſt Coun<g ref="char:EOLhyphen"/>cils, ſome Fathers againſt others, the ſame Fathers againſt themſelves, a Conſent of Fathers of one Age againſt a Conſent of Fathers of another Age, the Church of one Age againſt the Church of another Age; Traditive Interpretations of Scripture are pre<g ref="char:EOLhyphen"/>tended, but there are few or none to be found: No Tradition but only of Scripture can derive it ſelf from the Fountain, but may be plainly proved, either to have been brought in, in ſuch an Age after Chriſt, or that in ſuch an Age it was not in. In a word, there is no ſufficient certainty but of the Scripture only, for any conſidering Man to build upon. This there<g ref="char:EOLhyphen"/>fore, and this only, I have reaſon to believe; this I will profeſs, according to this I will live, and for this, if there be occaſion, I will not only willingly, but even gladly loſe my Life, though I ſhould be ſor<g ref="char:EOLhyphen"/>ry that Chriſtians ſhould take it from me. Propoſe me any thing out of this Book, and require whether I believe it or no, and ſeem it never ſo incomprehen<g ref="char:EOLhyphen"/>ſible to Humane Reaſon, I will ſubſcribe it with Hand and Heart, as knowing no demonſtration can be ſtron<g ref="char:EOLhyphen"/>ger than this, <hi>God hath ſaid ſo, therefore it is true.</hi> In other things I will take no Man's Liberty of Judg<g ref="char:EOLhyphen"/>ment from him, neither ſhall any Man take mine from me; I will think no Man the worſe Man or the worſe Chriſtian; I will love no Man the leſs for diffe<g ref="char:EOLhyphen"/>ring in Opinion from me; and what meaſure I meet to others, I expect from them again: I am fully aſ<g ref="char:EOLhyphen"/>ſured that God does not, and therefore that Men ought
+<pb n="5" facs="tcp:95974:3"/>not to require any more of any Man than this, To believe the Scripture to be God's Word, to endeavour to find the true ſence of it, and to live according to it.</p>
+               <p>
+                  <hi>N.</hi> 57. This is the Religion which I have choſen, after a long deliberation, and I am verily perſwaded that I have choſen wiſely, much more wiſely than if I had guided my ſelf according to your Churches Au<g ref="char:EOLhyphen"/>thority; for the Scripture being all true, I am ſecu<g ref="char:EOLhyphen"/>red by believing nothing elſe, that I ſhall believe no falſhood as Matter of Faith: And if I miſtake the ſenſe of Scripture, and ſo fall into Error, yet I am ſecure from any danger thereby, if but your Grounds be true; becauſe endeavouring to find the true Senſe of Scrip<g ref="char:EOLhyphen"/>ture, I cannot but hold my Error without pertinacy, and be ready to forſake it, when a more true and a more probable ſenſe ſhall appear unto me: And then all neceſſary Truth being, as I have proved, plainly ſet down in Scripture, I am certain by believing Scrip<g ref="char:EOLhyphen"/>ture, to believe all neceſſary Truth; and he that does ſo, if his Life be anſwerable to his Faith, how is it poſſible he ſhould fail of Salvation?</p>
+            </div>
+            <div type="part">
+               <head>Scripture the only Rule whereby to judg of Controverſies.</head>
+               <p>
+                  <hi>Chap.</hi> 2. <hi>N.</hi> 11.—To ſpeak properly (as Men ſhould ſpeak when they write of Controverſies in Religion) the Scripture is not a Judg of Controverſies, but a <hi>Rule only,</hi> and <hi>the only Rule for Chriſtians to judg them by:</hi> Every Man is to judg for himſelf with the Judgment of Diſcretion, and to chuſe either his Religion firſt, and then his Church, as we ſay; or as you, his Church firſt, and then his Religion. But by the Conſent of both ſides, every Man is to judg and chuſe; and the Rule whereby he is to direct his choice, if he be a na<g ref="char:EOLhyphen"/>tural Man, is Reaſon; if he be already a Chriſtian,
+<pb n="6" facs="tcp:95974:4"/>Scripture, which we ſay is the Rule to judg all Con<g ref="char:EOLhyphen"/>troverſies by, yet not all ſimply, but all the Contro<g ref="char:EOLhyphen"/>verſies of Chriſtians, of thoſe that are already agreed upon this firſt Principle, that <hi>the Scripture is the Word of God.</hi> But that there is any Man, or any Company of Men, appointed to be Judg for all Men, that we deny; and that I believe you will never prove.</p>
+            </div>
+            <div type="part">
+               <head>Every Man to judg for himſelf in Matters of Religion.</head>
+               <p>
+                  <hi>Chap.</hi> 2. <hi>N.</hi> 16. In Civil and Criminal Cauſes, the Parties have for the moſt part ſo much Intereſt, and very often ſo little Honeſty, that they will not ſub<g ref="char:EOLhyphen"/>mit to a Law though never ſo plain, if it be againſt them; or will not ſee it to be againſt them, though it be never ſo plainly: Whereas if Men were honeſt, and the Law were plain and extended to all Caſes, there would be little need of Judges. Now in Matters of Religion, when the Queſtion is, Whether every Man be a fit Judg and Chuſer for himſelf? we ſuppoſe Men honeſt, and ſuch as underſtand the difference between a Moment and Eternity; and ſuch Men, we conceive, will think it highly concerns them to be of the true Religion, but nothing at all that this or that Religion ſhould be the true: And then we ſuppoſe that all the neceſſary Points of Religi<g ref="char:EOLhyphen"/>on are plain and eaſie, and conſequently every Man in this Cauſe to be a competent Judg for himſelf, be<g ref="char:EOLhyphen"/>cauſe it concerns himſelf to judg right as much as Eternal Happineſs is worth, and if through his own default he judg amiſs, he alone ſhall ſuffer for it.</p>
+               <p>
+                  <hi>Ch.</hi> 3. <hi>N.</hi> 81. — If they [Men] would be themſelves, and be content that others ſhould be, in the choice of their Religion, the Servants of God and not of Men; if they would allow, that the
+<pb n="7" facs="tcp:95974:4"/>way to Heaven is no narrower now than Chriſt leſt it, his Yoak no heavier than he made it; that the be<g ref="char:EOLhyphen"/>lief of no more Difficulties is required now to Salva<g ref="char:EOLhyphen"/>tion, than was in the Primitive Church; that no Error is in it ſelf deſtructive and excluſive from Salvation now, which was not then; if inſtead of being zea<g ref="char:EOLhyphen"/>lous Papiſts, earneſt Calviniſts, rigid Lutherans, they would become themſelves, and be content that o<g ref="char:EOLhyphen"/>thers ſhould be plain and honeſt Chriſtians; if all Men would believe the Scripture, and freeing them<g ref="char:EOLhyphen"/>ſelves from Prejudice and Paſſion, would ſincerely en<g ref="char:EOLhyphen"/>deavour to find the true ſence of it, and live accor<g ref="char:EOLhyphen"/>ding to it, and require no more of others but to do ſo, not denying their Communion to any that do ſo, would ſo order their Publick Service of God, that all which do ſo may without Scruple or Hypocriſie, or Proteſtation againſt any part of it, joyn with them in it; who does not ſee that (ſeeing as we ſuppoſe here, and ſhall prove hereafter) all neceſſary Truths are plainly and evidently ſet down in Scripture, there would of neceſſity be among all Men, in all things neceſſary, Unity of Opinion? And notwith<g ref="char:EOLhyphen"/>ſtanding any other differences that are or could be, Unity of Communion, and Charity, and mutual To<g ref="char:EOLhyphen"/>leration; by which means all Schiſm and Hereſie would be baniſhed the World, and thoſe wretched Contentions which now rend and tear in pieces not the Coat, but the Members and Bowels of Chriſt, with mutual Pride and Tyranny, and curſing, killing, and damning, would fain make immortal, ſhould ſpeedily receive a moſt bleſſed Cataſtrophe. But of this here<g ref="char:EOLhyphen"/>after, when we ſhall come to the Queſtion of Schiſm, wherein I perſwade my ſelf that I ſhall plainly ſhew, that the moſt vehement Accuſers are the greateſt
+<pb n="8" facs="tcp:95974:5"/>Offenders, and that they are indeed at this time the greateſt Schiſmaticks, who make the way to Heaven narrower, the Yoke of Chriſt heavier, the differences of Faith greater, the Conditions of Eccleſiaſtical Go<g ref="char:EOLhyphen"/>vernment harder and ſtricter, than they were made at the beginning by Chriſt and his Apoſtles; they who talk of Unity and aim at Tyranny, and will have Peace with none but with their Slaves and Vaſſals.</p>
+               <p>
+                  <hi>Preſ. N.</hi> 30. — For what one Concluſion is there in the whole Fabrick of my Diſcourſe, that is not naturally deducible out of this one Principle, <hi>That all things neceſſary to Salvation are evidently contained in the Scriptures?</hi> Or what one Concluſion almoſt of importance is there in your Book, which is not by this one clearly confutable? Grant this, and it will preſently follow, in oppoſition to your firſt Conclu<g ref="char:EOLhyphen"/>ſion, and the Argument of your firſt Chapter, That a<g ref="char:EOLhyphen"/>mongſt Men of different Opinions, touching the ob<g ref="char:EOLhyphen"/>ſcure and controverted Queſtions of Religion, ſuch as may with probability be diſputed on both ſides, (and ſuch are the Diſputes of Proteſtants) good Men and Lovers of Truth of all ſides may be ſaved, becauſe all neceſſary things being ſuppoſed evident concerning them, with Men ſo qualified, there will be no diffe<g ref="char:EOLhyphen"/>rence; there being no more certain ſign that a Point is not evident, than that honeſt and underſtanding and indifferent Men, and ſuch as give themſelves liberty of Judgment, after a mature Conſideration of the matter, differ about it.</p>
+            </div>
+            <div type="part">
+               <head>Of Diſagreeing Proteſtants.</head>
+               <p>
+                  <hi>Anſ.</hi> to <hi>Pref. N.</hi> 26. 1. The moſt diſagreeing Pro<g ref="char:EOLhyphen"/>teſtants that are, yet thus far agree, that theſe Books
+<pb n="9" facs="tcp:95974:5"/>of Scripture which were never doubted of in the Church, are the undoubted Word of God, and a per<g ref="char:EOLhyphen"/>fect Rule of Faith. 2. That the ſenſe of them which God intended, whatſoever it is, is certainly true; ſo that they believe implicitly even thoſe very Truths againſt which they err; and why an implicit Faith in Chriſt and his Word, ſhould not ſuffice as well as an implicit Faith in your Church, I have deſired to be reſolved by many of your ſide, but never could. 3. That they are to uſe their beſt Endeavours to be<g ref="char:EOLhyphen"/>lieve the Scripture in true ſenſe, and to live according to it. This, if they perform (as I hope many on all ſides do) truly and ſincerely, it is impoſſible but that they ſhould believe aright in all things neceſſary to Salvation, that is, in all thoſe things that pertain to the Covenant between God and Man in Chriſt; for ſo much is not only plainly but frequently contained in Scripture and believing aright the Covenant, if they for their parts perform the Condition required of them, which is ſincere Obedience, why ſhould they not expect that God will perform his Promiſe, and give them Salvation? For, as for other things which lie without the Covenant, and are therefore leſs ne<g ref="char:EOLhyphen"/>ceſſary, if by reaſon of the ſeeming Conflict which is oftentimes between Scripture, Reaſon, and Au<g ref="char:EOLhyphen"/>thority on the one ſide, and Scripture, Reaſon, and Authority on the other; if by reaſon of the va<g ref="char:EOLhyphen"/>riety of Tempers, Abilities, Educations, and una<g ref="char:EOLhyphen"/>voidable Prejudices, whereby Mens Underſtand<g ref="char:EOLhyphen"/>ings are variouſly formed and faſhioned, they do em<g ref="char:EOLhyphen"/>brace ſeveral Opinions, whereof ſome muſt be er<g ref="char:EOLhyphen"/>roneous; to ſay that God will damn them for ſuch Errors, who are Lovers of him, and Lovers of Truth, is to rob Man of his Comfort, and God of his
+<pb n="10" facs="tcp:95974:6"/>Goodneſs, it is to make Man deſperate, and God a Tyrant.</p>
+               <p>
+                  <hi>Ib. N.</hi> 27. That it is ſufficient for any Man's Sal<g ref="char:EOLhyphen"/>vation, that he believe the Scripture, that he endea<g ref="char:EOLhyphen"/>vour to believe it in the true ſenſe of it as far as con<g ref="char:EOLhyphen"/>cerns his Duty; and that he conform his Life unto it, either by Obedience or Repentance: He that does ſo, (and all Proteſtants, according to the <hi>Dictamen</hi> of their Religion, ſhould do ſo) may be ſecured that he cannot err Fundamentally, ſo that notwithſtanding their Differences, and your Preſumption, <hi>the ſame Heaven may receive them all.</hi>
+               </p>
+               <p>
+                  <hi>Ib. N.</hi> 29. Who can find fault with him [Dr. <hi>Potter</hi>] for ſaying; If through want of means of Inſtruction, Incapacity, invincible or probable Ignorance, a Man die in Error, he may be ſaved: But if he be negligent in ſeeking Truth, unwilling to find it, either doth ſee it and will not, or might ſee it and will not, that his Caſe is dangerous, and without Repentance, deſperate.</p>
+               <p>
+                  <hi>Ch.</hi> 1. <hi>N.</hi> 11. Methinks, with much more Reaſon, and much more Charity, you muſt ſuppoſe that many of theſe Controverſies which are now diſputed among Chriſtians, (all which profeſs themſelves Lovers of Chriſt, and truly deſirous to know his Will and do it) are either <hi>not decidable</hi> by that means which God hath provided, and ſo not neceſſary to be decided; or if they be, yet <hi>not ſo plainly and evidently,</hi> as to oblige Men to hold one way: Or laſtly, if decidable, and evidently decided, yet you may hope that the erring part, by rea<g ref="char:EOLhyphen"/>ſon of ſome Veil before their Eyes, <hi>ſome execuſable Ig<g ref="char:EOLhyphen"/>norance, or unavoidable Prejudice,</hi> does not ſee the Que<g ref="char:EOLhyphen"/>ſtion to be decided againſt him, and ſo oppoſes not that which he doth know to be the Word of God, but only that which you know to be ſo, and which he might
+<pb n="11" facs="tcp:95974:6"/>know, were he void of Prejudice: which is a Fault, I confeſs, but a Fault which is incident even to good and honeſt Men very often; and not of ſuch a Gigantick Diſpoſition as you make it, to fly directly upon God Almighty, and to give him the Lie to his Face.</p>
+            </div>
+            <div type="part">
+               <head>Of the Neceſſity of a Viſible Judg in Controverſies of Religion, as well as in Civil Matters.</head>
+               <p>
+                  <hi>Ch.</hi> 2. <hi>N.</hi> 17.—In Civil Controverſies we are ob<g ref="char:EOLhyphen"/>liged only to external Paſſive Obedience, and not to an Internal and Active. We are bound to obey the Sen<g ref="char:EOLhyphen"/>tence of the Judg, or not to reſiſt it, but not always to believe it juſt. But in Matters of Religion, ſuch a Judg is required whom we ſhould be obliged to believe to have judged right; ſo that in Civil Controverſies every honeſt and underſtanding Man is fit to be a Judg, but in Religion none but he that is infallible.</p>
+               <p n="5">5. In Civil Cauſes there is Means and Power, when the Judg has decreed to compel Men to obey his Sen<g ref="char:EOLhyphen"/>tence: otherwiſe I believe Laws alone would be to as much purpoſe for the ending of Differences, as Laws and Judges both. But all the Power in the World is neither fit to convince, nor able to compel a Man's Conſcience to conſent to any thing: Worldly Terror may prevail ſo far, as to make Men profeſs a Religion which they believe not, (ſuch Men, I mean, who know not that there is a Heaven provided for Mar<g ref="char:EOLhyphen"/>tyrs, and a Hell for thoſe that diſſemble ſuch Truths as are neceſſary to be profeſſed) but to force either any Man to believe what he believes not, or any ho<g ref="char:EOLhyphen"/>neſt Man to diſſemble what he does believe, (if God commands him to profeſs it) or to profeſs what he does not believe, all the Powers in the World are too weak, with all the Powers of Hell to aſſiſt them.</p>
+               <pb n="12" facs="tcp:95974:7"/>
+               <p n="7">7. In Civil Matters it is impoſſible <hi>Titius</hi> ſhould hold the Land in queſtion, and <hi>Sempronius</hi> too; and therefore either the Plaintiff muſt injure the Defen<g ref="char:EOLhyphen"/>dant by diſquieting his Poſſeſſion, or the Defendant wrong the Plaintiff, by keeping his Right from him. But in Controverſies of Religion the Caſe is other<g ref="char:EOLhyphen"/>wiſe; I may hold my Opinion, and do you no wrong, and you yours, and do me none. Nay, we may both of us hold our Opinion, and yet do our ſelves no harm, provided the Difference be not touching any thing neceſſary to Salvation, and that we love Truth ſo well, as to be diligent to inform our Conſcience, and con<g ref="char:EOLhyphen"/>ſtant in following it.</p>
+            </div>
+            <div type="part">
+               <head>Concerning Errors Damnable, or not Damnable.</head>
+               <p>
+                  <hi>Ch.</hi> 3. <hi>N.</hi> 52. I Anſwer, that theſe Differences be<g ref="char:EOLhyphen"/>tween Proteſtants concerning Errors Damnable, and not Damnable: Truths Fundamental, and not Funda<g ref="char:EOLhyphen"/>mental, may be eaſily reconciled; for either the Er<g ref="char:EOLhyphen"/>ror they ſpeak of may be <hi>purely and ſimply involuntary,</hi> or it may be, in reſpect of <hi>the cauſe of it, voluntary:</hi> If the Cauſe of it be ſome voluntary and unavoidable Fault, the Error is it ſelf ſinful, and conſequently in its own Nature damnable; as if by negligence in ſeeking the Truth, by unwillingneſs to find it, by Pride, by Obſtinacy, by deſiring that Religion ſhould be true which ſuits beſt with my Ends, by fear of Mens ill Opinion, or any other worldly Fear, or any worldly Hope, I betray my ſelf to any Error contra<g ref="char:EOLhyphen"/>ry to any Divine revealed Truth, that Error may be juſtly ſtiled a Sin, and conſequently of it ſelf to ſuch an one damnable; but if I be guilty of none of theſe Faults, but be deſirous to know the Truth, and dili<g ref="char:EOLhyphen"/>gent in ſeeking it, and adviſe not at all with Fleſh and
+<pb n="13" facs="tcp:95974:7"/>Blood about the choice of my Opinions, but only with God, and that Reaſon that he hath given me: If I be thus qualified, and yet through humane Infirmity fall into Error, that Error cannot be damnable. Again, the Party erring, may be conceived either to die with Contrition, for all his Sins known and unknown, or without it: If he die without it, this Error in it ſelf if damnable, will be likewiſe ſo unto him; if he die with Contrition (as his Error can be no Impediment but he may) his Error, though in it ſelf damnable to him, according to your Doctrine, will not prove ſo.</p>
+            </div>
+            <div type="part">
+               <head>Of uſing Force in Matters of Religion.</head>
+               <p>
+                  <hi>Ch.</hi> 5. <hi>N.</hi> 96. But they <hi>endeavoured to force the So<g ref="char:EOLhyphen"/>ciety, whereof they were parts, to be healed and reformed as they were; and if it refuſed, they did, when they had Power, drive them away, even their Superiors, both Spiritual and Temporal, as is notorious.</hi> The Proofs hereof are wanting, and therefore I might defer my Anſwer until they were produced, yet take this be<g ref="char:EOLhyphen"/>fore-hand: If they did ſo, then herein, in my Opi<g ref="char:EOLhyphen"/>nion, they did amiſs; for I have learnt, from the An<g ref="char:EOLhyphen"/>cient Fathers of the Church, that <hi>Nothing is more a<g ref="char:EOLhyphen"/>gainſt Religion, than to force Religion;</hi> and of St. <hi>Paul, The Weapons of the Chriſtian Warfare are not Carnal:</hi> And great Reaſon; For humane Violence may make Men counterfeit, but cannot make them believe, and is therefore fit for nothing, but to breed Form without, and Atheiſm within. Beſides, if this means of bring<g ref="char:EOLhyphen"/>ing Men to embrace any Religion were generally uſed, (as if it may be juſtly uſed in any place, by thoſe that have Power, and think they have Truth, certainly they cannot with reaſon deny, but that it may be uſed in
+<pb n="14" facs="tcp:95974:8"/>every place, by thoſe that have Power as well as they, and think they have Truth as well as they) what could follow but the maintenance perhaps of Truth, but per<g ref="char:EOLhyphen"/>haps only of the profeſſion of it in one place, and the oppreſſion of it in an hundred? what will follow from it, but the preſervation perhaps of Unity, but perad<g ref="char:EOLhyphen"/>venture only of Uniformity in particular States and Churches; but the immortalizing the greater and more lamentable Diviſions of Chriſtendom and the World? And therefore what can follow from it, but perhaps in the judgment of carnal Policy, the temporal Benefit and Tranquillity of Temporal States and Kingdoms, but the infinite Prejudice, if not the diſſolution of the Kingdom of Chriſt? And therefore it well becomes them who have their Portion in this Life, who ſerve no higher State than that of <hi>England,</hi> or <hi>Spain,</hi> or <hi>France,</hi> nor this nei<g ref="char:EOLhyphen"/>ther, any further than they may ſerve themſelves by it; who think of no other happineſs but the preſer<g ref="char:EOLhyphen"/>vation of their own Fortunes and Tranquillity in this World; who think of no other means to preſerve States but humane Power and Machiavilian Policy, and believe no other Creed but this, <hi>Regi aut Civita<g ref="char:EOLhyphen"/>ti Imperium habenti nihil unjuſtum quod utile!</hi> Such Men as theſe it may become to maintain by worldly Power and Violence, their State, Inſtrument, Reli<g ref="char:EOLhyphen"/>gion: For if all be vain and falſe (as in their Judg<g ref="char:EOLhyphen"/>ment it is) the preſent whatſoever is better than any, becauſe it is already ſetled: An alteration of it may draw with it change of States, and the change of State the ſubverſion of their Fortune; but they that are indeed Servants and Lovers of Chriſt, of Truth, of the Church, and of Mankind, ought, with all cou<g ref="char:EOLhyphen"/>rage, to oppoſe themſelves againſt it as a common Ene<g ref="char:EOLhyphen"/>my of all theſe.</p>
+               <pb n="15" facs="tcp:95974:8"/>
+               <p>They that know there is a King of Kings, and Lord of Lords, by whoſe Will and Pleaſure Kings and Kingdoms ſtand and fall; they know that to no King or State any thing can be profitable which is unjuſt, and that nothing can be more evidently unjuſt, than to force weak Men by the Profeſſion of a Reli<g ref="char:EOLhyphen"/>gion which they believe not, to loſe their own Eternal Happineſs, out of a vain and needleſs fear, leſt they may poſſibly diſturb their temporal Quietneſs, there being no danger to any State from any Mans Opinion, un<g ref="char:EOLhyphen"/>leſs it be ſuch an Opinion by which Diſobedience to Authority or Impiety is taught or licenſed; which ſort I confeſs may juſtly be puniſhed as well as other Faults; or unleſs this ſanguinary Doctrine be joyned with it, That it is lawful for him by human Violence to enforce others to it.</p>
+               <p>
+                  <hi>Chap.</hi> 4. <hi>N.</hi> 16. This preſumptuous impoſing of the Senſes of Men upon the Words of God, the ſpecial Senſes of Men upon the general Words of God, and laying them upon Mens Conſciences together under the equal Penalty of Death and Damnation. This vain Conceit, that we can ſpeak of the things of God bet<g ref="char:EOLhyphen"/>ter than the words of God; this deifying our own Interpretations, and tyrannous enforcing them upon others; this reſtraining of the Word of God, from that Latitude and Generality, and the Underſtandings of Men from that Liberty wherein Chriſt and the Apoſtles left them,
+<note n="*" place="margin">
+                     <hi>This Per<g ref="char:EOLhyphen"/>ſwaſion is no Singula<g ref="char:EOLhyphen"/>rity of mine, but the Do<g ref="char:EOLhyphen"/>ctrine which I have learned from Divines of great Learning and Judgment. Let the Reader be pleaſed to peruſe the ſeventh Book of</hi> Acont. de Str<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t. Satanae, <hi>and</hi> Zanch. <hi>his laſt Oration delivered by him after the compoſing of the Diſcord between him and</hi> Amervachius, <hi>and he ſhall confeſs as much.</hi>
+                  </note> is, and hath been the only Foun<g ref="char:EOLhyphen"/>tain of all the Schiſms of the Church, and that which makes them immortal: The common Incondiary of <hi>Chriſtendom,</hi> and that which (as I ſaid before) tears
+<pb n="16" facs="tcp:95974:9"/>in pieces not the Coat, but the Bowels and Members of Chriſt; <hi>Ridente Turca, nec dolente Judico,</hi> take a<g ref="char:EOLhyphen"/>way theſe Walls of Separation, and all will quickly be one. Take away this <hi>Perſecuting, Burning, Curſing, Damning of Men</hi> for not ſubſcribing to the <hi>words of Men,</hi> as the words of God; require of Chriſtians only to believe Chriſt, and to call no Man Maſter but him only; let thoſe leave claiming Infallibility, that have no Title to it; and let them that in their Words diſ<g ref="char:EOLhyphen"/>claim it, diſclaim it likewiſe in their Actions. In a word, take away Tyranny, which is the Devils In<g ref="char:EOLhyphen"/>ſtrument to ſupport Errors, and Superſtitions, and Impieties, in the ſeveral parts of the World, which could not otherwiſe long withſtand the Power of Truth.</p>
+               <p>I ſay, take away Tyranny, and reſtore Chriſtians to their juſt and full Liberty of captivating their Un<g ref="char:EOLhyphen"/>derſtanding to Scripture only: and as Rivers, when they have a free Paſſage, run all to the Ocean; ſo it may well be hoped by God's Bleſſing, that univerſal Liberty thus moderated, may quickly reduce <hi>Chriſten<g ref="char:EOLhyphen"/>dom</hi> to Truth and Unity. Theſe Thoughts of Peace (I am perſwaded) may come from the God of Peace, and to his Bleſſing I recommend them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>Fr. Smith,</hi> at the Elephant and Caſtle in <hi>Pope's-head-Alley</hi> in <hi>Cornhill.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
